@@ -665,6 +665,7 @@ export interface Product {
   compareAtPrice?: number;
   stock: number;
   totalStock?: number;
+  sku?: string;
   inStock?: boolean;
   status?: string;
   isRefurbished?: boolean;
