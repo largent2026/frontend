@@ -1,0 +1,209 @@
+{
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "termsOfSale": "Terms of sale",
+    "privacy": "Privacy",
+    "legal": "Legal notice",
+    "cookies": "Cookies",
+    "returns": "Returns",
+    "terms": "Terms of use",
+    "payments": "Secure payment",
+    "copyright": "© {{year}} Refurbished Dyson.",
+    "paymentsNote": "Card, Stripe, options as configured."
+  },
+  "common": {
+    "products": "Products",
+    "cart": "Cart",
+    "myOrders": "My orders",
+    "tracking": "Tracking",
+    "seeProducts": "View products",
+    "backToProducts": "Back to products",
+    "viewCart": "View cart",
+    "legal": "Legal notice",
+    "terms": "Terms & conditions"
+  },
+  "home": {
+    "title": "Refurbished Dyson",
+    "subtitle": "Premium performance and design at reduced prices. Guaranteed, checked and ready to use."
+  },
+  "products": {
+    "title": "Products",
+    "searchPlaceholder": "Natural language search… (e.g. powerful Dyson for carpets, Airwrap long hair)",
+    "searchButton": "Search",
+    "resultsFor": "Results for « {{query}} »",
+    "noResults": "No products found. Try adjusting your filters.",
+    "similar": "Similar products",
+    "refurbished": "Refurbished",
+    "warranty": "{{months}}-month warranty",
+    "addToCart": "Add to cart",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {{current}} / {{total}}"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "discount": "Discount",
+    "total": "Total",
+    "coupon": "Promo code",
+    "apply": "Apply",
+    "checkout": "Checkout",
+    "quantity": "Quantity"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "successTitle": "Thank you.",
+    "successMessage": "We confirm your order status.",
+    "orderNumber": "Order",
+    "status": "Status",
+    "viewOrder": "View my order"
+  },
+  "orders": {
+    "title": "My orders",
+    "description": "Order history and tracking.",
+    "loginRequired": "Sign in to view your order history.",
+    "guestTrack": "Track an order (guest)",
+    "noOrders": "No orders yet.",
+    "order": "Order",
+    "articles": "item(s)",
+    "trackingTitle": "Order tracking",
+    "trackingDescription": "Enter your order number and the email used for the order.",
+    "orderNumberPlaceholder": "e.g. DY-20240219-0001",
+    "emailPlaceholder": "your@email.com",
+    "search": "View my order",
+    "searching": "Searching…",
+    "timeline": "Order timeline",
+    "shipments": "Shipments & tracking",
+    "items": "Items",
+    "backToOrders": "Back to my orders",
+    "continueShopping": "Continue shopping",
+    "trackAnother": "Track another order"
+  },
+  "orderStatus": {
+    "pending": "Pending",
+    "paid": "Paid",
+    "processing": "Processing",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+    "refunded": "Refunded"
+  },
+  "seo": {
+    "homeTitle": "Refurbished Dyson | Vacuums & premium care",
+    "homeDescription": "Guaranteed refurbished Dyson. Premium performance and design at reduced prices.",
+    "productsTitle": "Refurbished products | Dyson",
+    "productsDescription": "Discover our refurbished Dyson vacuums and care appliances, guaranteed and at reduced prices."
+  },
+  "chat": {
+    "title": "Dyson Assistant",
+    "open": "Open chat",
+    "close": "Close",
+    "welcome": "Ask about our products, order tracking or warranty. Personalized, accurate answers.",
+    "placeholder": "Your message…",
+    "send": "Send",
+    "typing": "Typing…",
+    "humanSupport": "Talk to an advisor",
+    "errorEmpty": "Sorry, I couldn't generate a response. Please try again or contact support.",
+    "errorResponse": "Something went wrong. You can try again or contact support."
+  },
+  "recommendations": {
+    "forYou": "Recommended for you",
+    "seeAll": "View all products",
+    "similar": "Similar products"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "seoTitle": "Legal notice | Refurbished Dyson",
+    "seoDescription": "Legal notice and information about the site publisher.",
+    "companyName": "Company name",
+    "legalForm": "Legal form",
+    "address": "Address",
+    "email": "Email",
+    "publicationManager": "Publication manager",
+    "host": "Host",
+    "vatNumber": "VAT number",
+    "intellectualProperty": "Intellectual property",
+    "liability": "Liability",
+    "notConfigured": "Legal notice is not yet configured.",
+    "configureInAdmin": "You can fill them in from the admin panel (Legal notice), or contact us via the Contact page.",
+    "defaultCompanyName": "Refurbished Dyson",
+    "defaultLegalForm": "Limited liability company (LLC) or equivalent",
+    "defaultAddress": "To be completed — Registered office address",
+    "defaultEmail": "contact@example.com",
+    "defaultPublicationManager": "To be completed — Publication manager name",
+    "defaultHost": "To be completed — Host name and address",
+    "defaultIntellectualProperty": "All content on this site (texts, images, logos) is protected by intellectual property law. Unauthorised reproduction is prohibited.",
+    "defaultLiability": "We strive to keep information up to date. We disclaim any liability for damages arising from the use of the site or the information provided."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "description": "Find answers to the most common questions about our products, delivery, payment and returns.",
+    "searchPlaceholder": "Search the FAQ…",
+    "categoryAll": "All",
+    "categoryDelivery": "Delivery",
+    "categoryPayment": "Payment",
+    "categoryWarranty": "Warranty",
+    "categoryProducts": "Products",
+    "categoryReturns": "Returns",
+    "noResults": "No questions match your search.",
+    "seoTitle": "FAQ | Refurbished Dyson",
+    "seoDescription": "Answers to frequently asked questions: warranty, delivery, payment, returns."
+  },
+  "termsOfSale": {
+    "title": "Terms and conditions of sale",
+    "seoTitle": "Terms of sale | Refurbished Dyson",
+    "seoDescription": "Terms and conditions of sale and purchase.",
+    "content": "Scope\n\nThese General Terms and Conditions of Sale (GTC) govern the sale of refurbished Dyson products offered on this site. By placing an order, the customer accepts these GTC without reservation.\n\nRefurbished products\n\nProducts are refurbished: tested, cleaned and restored. They come with a commercial warranty as stated on each product page.\n\nPrice and VAT\n\nPrices are displayed in the site currency including VAT. Delivery charges may apply as shown at checkout.\n\nPayment\n\nWe accept card payments (Stripe) and, depending on configuration: crypto (Coinbase Commerce), TWINT. Payment is due at order. Payment data is processed securely.\n\nDelivery\n\nDelivery times and costs are shown at checkout. The customer must provide an accurate delivery address.\n\nRight of withdrawal (14 days)\n\nUnder EU and Swiss law, you have 14 days from receipt to exercise your right of withdrawal. Contact us and return the product in its original condition. Refund will be made within 14 days of receipt of the return.\n\nWarranties\n\nIn addition to legal warranties, our refurbished products come with a commercial warranty as detailed on the product page.\n\nLiability and disputes\n\nOur liability is limited to the order amount. In case of dispute, we will seek an amicable solution. Applicable law: Switzerland / EU as per the publisher's seat."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "seoTitle": "Privacy | Refurbished Dyson",
+    "seoDescription": "Privacy policy and personal data protection (GDPR).",
+    "content": "Data controller\n\nThe data controller is the site publisher (see legal notice).\n\nData collected\n\nWe collect data necessary for orders (identity, address, email), payments (Stripe / providers), and customer relations. Browsing data may be collected via cookies.\n\nPurposes\n\nOrder fulfilment, account management, customer service, billing, legal obligations, and with your consent: marketing, analytics.\n\nLegal basis\n\nContract performance, consent (newsletters, non-essential cookies), legal obligation, legitimate interest (security, service improvement).\n\nRetention\n\nOrder and billing data: as required by law (e.g. 10 years). Account data: while the account is active.\n\nYour rights (GDPR)\n\nRight of access, rectification, erasure, restriction, portability, objection. Contact us. You may lodge a complaint with your supervisory authority.\n\nCookies and third parties\n\nNecessary cookies for operation; optional cookies (analytics, marketing) with consent. Stripe for payments; services such as Google (Analytics, Gemini) as configured.\n\nSecurity\n\nTechnical and organisational measures to protect your data (HTTPS, limited access, secure passwords)."
+  },
+  "returns": {
+    "title": "Return and refund policy",
+    "seoTitle": "Returns | Refurbished Dyson",
+    "seoDescription": "Return conditions and procedure.",
+    "content": "Return period\n\n14 days from receipt to notify your decision to return. The product must be sent back within a reasonable time.\n\nConditions\n\nProduct in original condition, unused (or reasonable trial), original packaging if possible. Accessories and documents included.\n\nRefund\n\nWithin 14 days after receipt and inspection of the return, via the same payment method. Return shipping may be at your expense unless otherwise agreed.\n\nNon-eligible products\n\nCertain legal exceptions (customised products, unsealed for hygiene, etc.) may apply; see product page.\n\nProcedure\n\n1. Contact support (email or contact form).\n2. We provide the return address and instructions.\n3. Pack and ship with proof of shipment.\n4. Inspection then refund.\n\nReturn address\n\nProvided after your request and on the Contact page."
+  },
+  "terms": {
+    "title": "Terms of use",
+    "seoTitle": "Terms of use | Refurbished Dyson",
+    "seoDescription": "Terms of use of the site and services.",
+    "content": "Access\n\nAccess to and use of the site are subject to these terms. By accessing the site, you accept them.\n\nUser account\n\nCreating an account is optional (guest checkout available). If you create an account, you are responsible for keeping your credentials confidential and for all activity under your account.\n\nContent ownership\n\nSite content (texts, images, logos) is protected by intellectual property law. The Dyson brand and products are trademarks of their respective owners.\n\nProhibited use\n\nIllegal use, compromising security, identity theft or harming the service are prohibited.\n\nLimitation of liability\n\nWe strive to keep the site up to date and secure. We do not guarantee uninterrupted availability. Our liability is limited to foreseeable direct damages as permitted by law."
+  },
+  "cookies": {
+    "title": "Cookie policy",
+    "seoTitle": "Cookies | Refurbished Dyson",
+    "seoDescription": "Information about cookies and how to manage your preferences.",
+    "content": "This site uses cookies for operation, audience analysis and, with your consent, marketing.\n\nNecessary cookies\n\nThey are essential for the site (session, cart, language, security). They cannot be disabled.\n\nAnalytics cookies\n\nThey allow us to measure audience and usage. They are optional and only set with your consent.\n\nMarketing cookies\n\nThey may be used for relevant ads or retargeting. They are optional and only set with your consent.\n\nManaging your choices\n\nYou can change your preferences at any time via the cookie banner or this page. Consent is stored for 12 months.\n\nSee our Privacy policy for more on cookies and your rights.",
+    "bannerTitle": "Cookies and privacy",
+    "bannerDescription": "We use necessary cookies for the site and, with your consent, analytics and marketing cookies. You can accept all, necessary only, or customize.",
+    "acceptAll": "Accept all",
+    "necessaryOnly": "Necessary only",
+    "customize": "Customize",
+    "save": "Save my choices",
+    "necessary": "Necessary",
+    "analytics": "Analytics",
+    "marketing": "Marketing"
+  },
+  "contact": {
+    "title": "Contact",
+    "seoTitle": "Contact | Refurbished Dyson",
+    "seoDescription": "Contact us for any question about our products and orders.",
+    "description": "Have a question? Send us a message, we will reply within 48 hours.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending…",
+    "success": "Message sent. We will get back to you shortly.",
+    "error": "Something went wrong. Please try again or email us."
+  }
+}

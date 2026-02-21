@@ -1,0 +1,209 @@
+{
+  "common": {
+    "products": "Produits",
+    "cart": "Panier",
+    "myOrders": "Mes commandes",
+    "tracking": "Suivi",
+    "seeProducts": "Voir les produits",
+    "backToProducts": "Retour aux produits",
+    "viewCart": "Voir le panier",
+    "legal": "Mentions légales",
+    "terms": "CGV"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "termsOfSale": "CGV",
+    "privacy": "Confidentialité",
+    "legal": "Mentions légales",
+    "cookies": "Cookies",
+    "returns": "Retours",
+    "terms": "Conditions d'utilisation",
+    "payments": "Paiement sécurisé",
+    "copyright": "© {{year}} Dyson Reconditionnés.",
+    "paymentsNote": "Carte bancaire, Stripe, options selon configuration."
+  },
+  "home": {
+    "title": "Dyson reconditionnés",
+    "subtitle": "Performance et design premium à prix réduits. Garantie, vérifiés et prêts à l'emploi."
+  },
+  "products": {
+    "title": "Produits",
+    "searchPlaceholder": "Recherche en langage naturel… (ex. Dyson puissant tapis, Airwrap cheveux longs)",
+    "searchButton": "Rechercher",
+    "resultsFor": "Résultats pour « {{query}} »",
+    "noResults": "Aucun produit trouvé. Modifiez les filtres.",
+    "similar": "Produits similaires",
+    "refurbished": "Reconditionné",
+    "warranty": "Garantie {{months}} mois",
+    "addToCart": "Ajouter au panier",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page {{current}} / {{total}}"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "discount": "Réduction",
+    "total": "Total",
+    "coupon": "Code promo",
+    "apply": "Appliquer",
+    "checkout": "Commander",
+    "quantity": "Quantité"
+  },
+  "checkout": {
+    "title": "Commander",
+    "successTitle": "Merci.",
+    "successMessage": "Nous confirmons le statut de ta commande.",
+    "orderNumber": "Commande",
+    "status": "Statut",
+    "viewOrder": "Voir ma commande"
+  },
+  "orders": {
+    "title": "Mes commandes",
+    "description": "Historique et suivi de vos commandes.",
+    "loginRequired": "Connectez-vous pour voir l'historique de vos commandes.",
+    "guestTrack": "Suivre une commande (invité)",
+    "noOrders": "Aucune commande pour le moment.",
+    "order": "Commande",
+    "articles": "article(s)",
+    "trackingTitle": "Suivi de commande",
+    "trackingDescription": "Entrez le numéro de commande et l'email utilisé pour la commande.",
+    "orderNumberPlaceholder": "ex. DY-20240219-0001",
+    "emailPlaceholder": "votre@email.ch",
+    "search": "Voir ma commande",
+    "searching": "Recherche…",
+    "timeline": "Suivi de la commande",
+    "shipments": "Expéditions et suivi",
+    "items": "Articles",
+    "backToOrders": "Retour à mes commandes",
+    "continueShopping": "Continuer mes achats",
+    "trackAnother": "Suivre une autre commande"
+  },
+  "orderStatus": {
+    "pending": "En attente",
+    "paid": "Payée",
+    "processing": "En préparation",
+    "shipped": "Expédiée",
+    "delivered": "Livrée",
+    "cancelled": "Annulée",
+    "refunded": "Remboursée"
+  },
+  "seo": {
+    "homeTitle": "Dyson Reconditionnés | Aspirateurs & soin premium",
+    "homeDescription": "Dyson reconditionnés garantis. Performance et design premium à prix réduits.",
+    "productsTitle": "Produits reconditionnés | Dyson",
+    "productsDescription": "Découvrez nos aspirateurs et appareils de soin Dyson reconditionnés, garantis et à prix réduits."
+  },
+  "chat": {
+    "title": "Assistant Dyson",
+    "open": "Ouvrir le chat",
+    "close": "Fermer",
+    "welcome": "Posez une question sur nos produits, le suivi de commande ou la garantie. Réponses personnalisées et précises.",
+    "placeholder": "Votre message…",
+    "send": "Envoyer",
+    "typing": "Réponse en cours…",
+    "humanSupport": "Parler à un conseiller",
+    "errorEmpty": "Désolé, je n'ai pas pu générer de réponse. Essayez ou contactez le support.",
+    "errorResponse": "Une erreur s'est produite. Vous pouvez réessayer ou contacter le support."
+  },
+  "recommendations": {
+    "forYou": "Recommandé pour vous",
+    "seeAll": "Voir tous les produits",
+    "similar": "Produits similaires"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "seoTitle": "Mentions légales | Dyson Reconditionnés",
+    "seoDescription": "Mentions légales et informations sur l'éditeur du site.",
+    "companyName": "Raison sociale",
+    "legalForm": "Forme juridique",
+    "address": "Adresse",
+    "email": "Email",
+    "publicationManager": "Responsable de la publication",
+    "host": "Hébergeur",
+    "vatNumber": "Numéro TVA",
+    "intellectualProperty": "Propriété intellectuelle",
+    "liability": "Responsabilité",
+    "notConfigured": "Les mentions légales ne sont pas encore configurées.",
+    "configureInAdmin": "Vous pouvez les renseigner depuis l'interface d'administration (Mentions légales), ou nous contacter via la page Contact.",
+    "defaultCompanyName": "Dyson Reconditionnés",
+    "defaultLegalForm": "Société à responsabilité limitée (SARL) ou équivalent",
+    "defaultAddress": "À compléter — Adresse du siège social",
+    "defaultEmail": "contact@example.com",
+    "defaultPublicationManager": "À compléter — Nom du responsable",
+    "defaultHost": "À compléter — Nom et adresse de l'hébergeur",
+    "defaultIntellectualProperty": "L'ensemble du contenu de ce site (textes, images, logos) est protégé par le droit de la propriété intellectuelle. Toute reproduction non autorisée est interdite.",
+    "defaultLiability": "Nous nous efforçons de maintenir les informations à jour. Nous déclinons toute responsabilité pour les dommages résultant de l'utilisation du site ou des informations fournies."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "description": "Retrouvez les réponses aux questions les plus posées sur nos produits, la livraison, les paiements et les retours.",
+    "searchPlaceholder": "Rechercher dans la FAQ…",
+    "categoryAll": "Toutes",
+    "categoryDelivery": "Livraison",
+    "categoryPayment": "Paiement",
+    "categoryWarranty": "Garantie",
+    "categoryProducts": "Produits",
+    "categoryReturns": "Retours",
+    "noResults": "Aucune question ne correspond à votre recherche.",
+    "seoTitle": "FAQ | Dyson Reconditionnés",
+    "seoDescription": "Réponses aux questions fréquentes : garantie, livraison, paiement, retours."
+  },
+  "termsOfSale": {
+    "title": "Conditions générales de vente",
+    "seoTitle": "CGV | Dyson Reconditionnés",
+    "seoDescription": "Conditions générales de vente et modalités d'achat.",
+    "content": "Objet\n\nLes présentes Conditions Générales de Vente (CGV) régissent les ventes de produits Dyson reconditionnés proposés sur ce site. En passant commande, le client accepte sans réserve les présentes CGV.\n\nProduits reconditionnés\n\nLes appareils proposés sont reconditionnés : contrôlés, nettoyés et remis en état. Ils bénéficient d'une garantie commerciale dont la durée est indiquée sur chaque fiche produit.\n\nPrix et TVA\n\nLes prix sont indiqués en euros (ou devise du site) TTC. La TVA applicable est celle en vigueur. Les frais de livraison peuvent s'ajouter au total selon le mode choisi.\n\nPaiement\n\nNous acceptons le paiement par carte bancaire (Stripe), et selon configuration : crypto-monnaies (Coinbase Commerce), TWINT. Le paiement est exigible à la commande.\n\nLivraison\n\nLes délais et coûts de livraison sont indiqués au moment du checkout. Le client est tenu de fournir une adresse de livraison exacte.\n\nDroit de rétractation (14 jours)\n\nConformément au droit européen et suisse, vous disposez de 14 jours à compter de la réception pour exercer votre droit de rétractation. Contactez-nous et renvoyez le produit dans son état d'origine. Le remboursement sera effectué sous 14 jours après réception du retour.\n\nGaranties\n\nOutre la garantie légale, nos produits reconditionnés bénéficient d'une garantie commerciale détaillée sur la fiche produit.\n\nResponsabilité et litiges\n\nNotre responsabilité est limitée au montant de la commande. En cas de litige, une solution amiable sera recherchée. Droit applicable : Suisse / UE selon le siège de l'éditeur."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "seoTitle": "Confidentialité | Dyson Reconditionnés",
+    "seoDescription": "Politique de confidentialité et protection des données (RGPD).",
+    "content": "Responsable du traitement\n\nLe responsable du traitement est l'éditeur du site (voir mentions légales).\n\nDonnées collectées\n\nNous collectons les données nécessaires à la commande (identité, adresse, email), aux paiements (Stripe / prestataires), et à la relation client. Les données de navigation peuvent être collectées via des cookies.\n\nFinalités\n\nExécution des commandes, gestion du compte, SAV, facturation, obligations légales, et avec votre consentement : marketing, analyse d'audience.\n\nBase légale\n\nExécution du contrat, consentement (newsletters, cookies non essentiels), obligation légale, intérêt légitime (sécurité, amélioration du service).\n\nDurée de conservation\n\nDonnées commandes et facturation : selon obligations légales (ex. 10 ans). Données compte : tant que le compte est actif.\n\nVos droits (RGPD)\n\nDroit d'accès, rectification, suppression, limitation, portabilité, opposition. Contactez-nous. Vous pouvez introduire une réclamation auprès de l'autorité de contrôle de votre pays.\n\nCookies et tiers\n\nCookies nécessaires au fonctionnement ; cookies optionnels (analytics, marketing) avec consentement. Stripe pour les paiements ; services type Google (Analytics, Gemini) selon configuration.\n\nSécurité\n\nMesures techniques et organisationnelles pour protéger vos données (HTTPS, accès limité, mots de passe sécurisés)."
+  },
+  "returns": {
+    "title": "Politique de retour et remboursement",
+    "seoTitle": "Retours | Dyson Reconditionnés",
+    "seoDescription": "Conditions et procédure de retour et remboursement.",
+    "content": "Délai de retour\n\n14 jours à compter de la réception pour notifier votre décision de retour. Le produit doit être renvoyé dans un délai raisonnable.\n\nConditions\n\nProduit dans son état d'origine, non utilisé (ou essai raisonnable), emballage d'origine si possible. Accessoires et documents inclus.\n\nRemboursement\n\nSous 14 jours après réception et contrôle du retour, par le même moyen de paiement. Les frais de port du retour peuvent rester à votre charge sauf accord contraire.\n\nProduits non éligibles\n\nCertaines exceptions légales (produits personnalisés, scellés ouverts pour hygiène, etc.) peuvent s'appliquer ; indiquées sur la fiche produit.\n\nProcédure\n\n1. Contactez le support (email ou formulaire contact).\n2. Nous communiquons l'adresse de retour et les instructions.\n3. Emballez et renvoyez avec preuve d'expédition.\n4. Contrôle puis remboursement.\n\nAdresse de retour\n\nCommuniquée après votre demande et disponible sur la page Contact."
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "seoTitle": "Conditions d'utilisation | Dyson Reconditionnés",
+    "seoDescription": "Conditions d'utilisation du site et des services.",
+    "content": "Accès au site\n\nL'accès et l'utilisation du site sont soumis aux présentes conditions. En accédant au site, vous les acceptez.\n\nCompte utilisateur\n\nLa création d'un compte est optionnelle (achat invité possible). Si vous créez un compte, vous êtes responsable de la confidentialité de vos identifiants et des activités depuis votre compte.\n\nPropriété du contenu\n\nLe contenu du site (textes, images, logos) est protégé par le droit de la propriété intellectuelle. La marque Dyson et les produits sont des marques de leurs propriétaires respectifs.\n\nInterdictions\n\nUtilisation illégale, compromission de la sécurité, usurpation d'identité ou nuisance au service sont interdites.\n\nLimitation de responsabilité\n\nNous nous efforçons de maintenir le site à jour et sécurisé. Nous ne garantissons pas une disponibilité ininterrompue. Notre responsabilité est limitée aux dommages directs prévisibles dans la mesure permise par la loi."
+  },
+  "cookies": {
+    "title": "Politique cookies",
+    "seoTitle": "Cookies | Dyson Reconditionnés",
+    "seoDescription": "Information sur les cookies et la gestion de vos préférences.",
+    "content": "Ce site utilise des cookies pour son fonctionnement, l'analyse d'audience et, avec votre consentement, des finalités marketing.\n\nCookies nécessaires\n\nIls sont indispensables au fonctionnement du site (session, panier, préférences de langue, sécurité). Vous ne pouvez pas les désactiver.\n\nCookies analytics\n\nIls nous permettent de mesurer l'audience et l'utilisation du site (pages vues, provenance). Ils sont optionnels et ne sont déposés qu'avec votre consentement.\n\nCookies marketing\n\nIls peuvent être utilisés pour afficher des publicités pertinentes ou pour le reciblage. Ils sont optionnels et ne sont déposés qu'avec votre consentement.\n\nGestion de vos choix\n\nVous pouvez à tout moment modifier vos préférences via le bandeau cookies ou sur cette page. Le consentement est conservé pendant 12 mois.\n\nPour en savoir plus sur les cookies et vos droits, consultez notre Politique de confidentialité.",
+    "bannerTitle": "Cookies et vie privée",
+    "bannerDescription": "Nous utilisons des cookies nécessaires au fonctionnement du site et, avec votre accord, des cookies d'analyse et de marketing. Vous pouvez tout accepter, refuser les optionnels ou personnaliser.",
+    "acceptAll": "Tout accepter",
+    "necessaryOnly": "Necessaires uniquement",
+    "customize": "Personnaliser",
+    "save": "Enregistrer mes choix",
+    "necessary": "Necessaires",
+    "analytics": "Analytics",
+    "marketing": "Marketing"
+  },
+  "contact": {
+    "title": "Contact",
+    "seoTitle": "Contact | Dyson Reconditionnés",
+    "seoDescription": "Contactez-nous pour toute question sur nos produits et commandes.",
+    "description": "Une question ? Envoyez-nous un message, nous vous répondrons sous 48 h.",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi…",
+    "success": "Message envoyé. Nous vous répondrons sous peu.",
+    "error": "Une erreur s'est produite. Réessayez ou contactez-nous par email."
+  }
+}

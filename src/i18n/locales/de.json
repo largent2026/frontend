@@ -1,0 +1,209 @@
+{
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "termsOfSale": "AGB",
+    "privacy": "Datenschutz",
+    "legal": "Impressum",
+    "cookies": "Cookies",
+    "returns": "Rückgaben",
+    "terms": "Nutzungsbedingungen",
+    "payments": "Sichere Zahlung",
+    "copyright": "© {{year}} Dyson Generalüberholt.",
+    "paymentsNote": "Karte, Stripe, Optionen je nach Konfiguration."
+  },
+  "common": {
+    "products": "Produkte",
+    "cart": "Warenkorb",
+    "myOrders": "Meine Bestellungen",
+    "tracking": "Sendungsverfolgung",
+    "seeProducts": "Produkte anzeigen",
+    "backToProducts": "Zurück zu den Produkten",
+    "viewCart": "Warenkorb anzeigen",
+    "legal": "Impressum",
+    "terms": "AGB"
+  },
+  "home": {
+    "title": "Dyson Generalüberholt",
+    "subtitle": "Premium-Leistung und Design zu reduzierten Preisen. Geprüft, garantiert und einsatzbereit."
+  },
+  "products": {
+    "title": "Produkte",
+    "searchPlaceholder": "Suche in natürlicher Sprache… (z. B. starker Dyson für Teppiche, Airwrap lange Haare)",
+    "searchButton": "Suchen",
+    "resultsFor": "Ergebnisse für « {{query}} »",
+    "noResults": "Keine Produkte gefunden. Passen Sie die Filter an.",
+    "similar": "Ähnliche Produkte",
+    "refurbished": "Generalüberholt",
+    "warranty": "{{months}} Monate Garantie",
+    "addToCart": "In den Warenkorb",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "page": "Seite {{current}} / {{total}}"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "discount": "Rabatt",
+    "total": "Gesamt",
+    "coupon": "Gutscheincode",
+    "apply": "Anwenden",
+    "checkout": "Zur Kasse",
+    "quantity": "Menge"
+  },
+  "checkout": {
+    "title": "Kasse",
+    "successTitle": "Vielen Dank.",
+    "successMessage": "Wir bestätigen den Status Ihrer Bestellung.",
+    "orderNumber": "Bestellung",
+    "status": "Status",
+    "viewOrder": "Meine Bestellung anzeigen"
+  },
+  "orders": {
+    "title": "Meine Bestellungen",
+    "description": "Bestellverlauf und Sendungsverfolgung.",
+    "loginRequired": "Melden Sie sich an, um Ihren Bestellverlauf zu sehen.",
+    "guestTrack": "Bestellung verfolgen (Gast)",
+    "noOrders": "Noch keine Bestellungen.",
+    "order": "Bestellung",
+    "articles": "Artikel",
+    "trackingTitle": "Sendungsverfolgung",
+    "trackingDescription": "Geben Sie die Bestellnummer und die E-Mail der Bestellung ein.",
+    "orderNumberPlaceholder": "z.B. DY-20240219-0001",
+    "emailPlaceholder": "ihre@email.ch",
+    "search": "Meine Bestellung anzeigen",
+    "searching": "Suche…",
+    "timeline": "Bestellverlauf",
+    "shipments": "Sendungen & Verfolgung",
+    "items": "Artikel",
+    "backToOrders": "Zurück zu meinen Bestellungen",
+    "continueShopping": "Weiter einkaufen",
+    "trackAnother": "Andere Bestellung verfolgen"
+  },
+  "orderStatus": {
+    "pending": "Ausstehend",
+    "paid": "Bezahlt",
+    "processing": "In Bearbeitung",
+    "shipped": "Versendet",
+    "delivered": "Geliefert",
+    "cancelled": "Storniert",
+    "refunded": "Erstattet"
+  },
+  "seo": {
+    "homeTitle": "Dyson Generalüberholt | Staubsauger & Premium-Pflege",
+    "homeDescription": "Garantierte generalüberholte Dyson. Premium-Leistung und Design zu reduzierten Preisen.",
+    "productsTitle": "Generalüberholte Produkte | Dyson",
+    "productsDescription": "Entdecken Sie unsere generalüberholten Dyson-Staubsauger und Pflegegeräte, garantiert und zu reduzierten Preisen."
+  },
+  "chat": {
+    "title": "Dyson Assistent",
+    "open": "Chat öffnen",
+    "close": "Schließen",
+    "welcome": "Fragen Sie zu Produkten, Sendungsverfolgung oder Garantie. Persönliche, präzise Antworten.",
+    "placeholder": "Ihre Nachricht…",
+    "send": "Senden",
+    "typing": "Wird getippt…",
+    "humanSupport": "Mit Berater sprechen",
+    "errorEmpty": "Antwort konnte nicht erstellt werden. Bitte erneut versuchen oder Support kontaktieren.",
+    "errorResponse": "Ein Fehler ist aufgetreten. Bitte erneut versuchen oder Support kontaktieren."
+  },
+  "recommendations": {
+    "forYou": "Empfohlen für Sie",
+    "seeAll": "Alle Produkte anzeigen",
+    "similar": "Ähnliche Produkte"
+  },
+  "legal": {
+    "title": "Impressum",
+    "seoTitle": "Impressum | Dyson Generalüberholt",
+    "seoDescription": "Impressum und Informationen zum Herausgeber der Website.",
+    "companyName": "Firmenname",
+    "legalForm": "Rechtsform",
+    "address": "Adresse",
+    "email": "E-Mail",
+    "publicationManager": "Verantwortlich für den Inhalt",
+    "host": "Hosting",
+    "vatNumber": "USt-IdNr.",
+    "intellectualProperty": "Geistiges Eigentum",
+    "liability": "Haftung",
+    "notConfigured": "Das Impressum ist noch nicht konfiguriert.",
+    "configureInAdmin": "Sie können es im Admin-Bereich (Impressum) ausfüllen oder uns über die Kontaktseite erreichen.",
+    "defaultCompanyName": "Dyson Generalüberholt",
+    "defaultLegalForm": "Gesellschaft mit beschränkter Haftung (GmbH) oder gleichwertig",
+    "defaultAddress": "Ausfüllen — Sitzadresse",
+    "defaultEmail": "contact@example.com",
+    "defaultPublicationManager": "Ausfüllen — Verantwortlicher Name",
+    "defaultHost": "Ausfüllen — Name und Adresse des Hosting-Anbieters",
+    "defaultIntellectualProperty": "Der gesamte Inhalt dieser Website (Texte, Bilder, Logos) ist urheberrechtlich geschützt. Jede unerlaubte Vervielfältigung ist untersagt.",
+    "defaultLiability": "Wir bemühen uns, die Informationen aktuell zu halten. Wir übernehmen keine Haftung für Schäden aus der Nutzung der Website oder der bereitgestellten Informationen."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Antworten auf die häufigsten Fragen zu Produkten, Versand, Zahlung und Rückgaben.",
+    "searchPlaceholder": "In der FAQ suchen…",
+    "categoryAll": "Alle",
+    "categoryDelivery": "Versand",
+    "categoryPayment": "Zahlung",
+    "categoryWarranty": "Garantie",
+    "categoryProducts": "Produkte",
+    "categoryReturns": "Rückgaben",
+    "noResults": "Keine Fragen entsprechen Ihrer Suche.",
+    "seoTitle": "FAQ | Dyson Generalüberholt",
+    "seoDescription": "Antworten auf häufig gestellte Fragen: Garantie, Versand, Zahlung, Rückgaben."
+  },
+  "termsOfSale": {
+    "title": "Allgemeine Verkaufsbedingungen",
+    "seoTitle": "AGB | Dyson Generalüberholt",
+    "seoDescription": "Allgemeine Verkaufsbedingungen und Einkaufsmodalitäten.",
+    "content": "Geltungsbereich\n\nDiese Allgemeinen Verkaufsbedingungen (AGB) gelten für den Verkauf von generalüberholten Dyson-Produkten auf dieser Website. Mit der Bestellung akzeptiert der Kunde diese AGB.\n\nGeneralüberholte Produkte\n\nDie Geräte sind generalüberholt: geprüft, gereinigt und instand gesetzt. Sie haben eine gewerbliche Garantie wie auf der Produktseite angegeben.\n\nPreis und MwSt.\n\nPreise in der Währung der Website inkl. MwSt. Versandkosten können je nach gewählter Option hinzukommen.\n\nZahlung\n\nWir akzeptieren Kartenzahlung (Stripe) und je nach Konfiguration: Krypto (Coinbase Commerce), TWINT. Die Zahlung ist bei Bestellung fällig.\n\nVersand\n\nLieferzeiten und -kosten werden beim Checkout angezeigt.\n\nWiderrufsrecht (14 Tage)\n\nNach EU- und Schweizer Recht haben Sie 14 Tage ab Erhalt, um Ihr Widerrufsrecht auszuüben. Kontaktieren Sie uns und senden Sie das Produkt im Originalzustand zurück. Die Erstattung erfolgt innerhalb von 14 Tagen nach Eingang der Rücksendung.\n\nGarantien\n\nZusätzlich zur gesetzlichen Garantie haben unsere generalüberholten Produkte eine gewerbliche Garantie (siehe Produktseite).\n\nHaftung und Streitigkeiten\n\nUnsere Haftung ist auf den Bestellwert beschränkt. Bei Streitigkeiten wird eine gütliche Lösung angestrebt. Anwendbares Recht: Schweiz / EU."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "seoTitle": "Datenschutz | Dyson Generalüberholt",
+    "seoDescription": "Datenschutzerklärung und Schutz personenbezogener Daten (DSGVO).",
+    "content": "Verantwortlicher\n\nVerantwortlich für die Datenverarbeitung ist der Betreiber der Website (siehe Impressum).\n\nErhobene Daten\n\nWir erheben die für die Bestellung (Identität, Adresse, E-Mail), Zahlung (Stripe / Anbieter) und Kundenbeziehung erforderlichen Daten. Nutzungsdaten können über Cookies erfasst werden.\n\nZwecke\n\nBestellabwicklung, Kontoverwaltung, Kundenservice, Rechnungsstellung, gesetzliche Pflichten; mit Ihrer Einwilligung: Marketing, Analyse.\n\nRechtsgrundlage\n\nVertragserfüllung, Einwilligung (Newsletter, nicht notwendige Cookies), gesetzliche Verpflichtung, berechtigtes Interesse (Sicherheit, Verbesserung).\n\nAufbewahrung\n\nBestell- und Rechnungsdaten: nach gesetzlichen Vorgaben. Kontodaten: solange das Konto aktiv ist.\n\nIhre Rechte (DSGVO)\n\nRecht auf Zugang, Berichtigung, Löschung, Einschränkung, Übertragbarkeit, Widerspruch. Kontaktieren Sie uns. Sie können sich bei einer Aufsichtsbehörde beschweren.\n\nCookies und Dritte\n\nNotwendige Cookies für den Betrieb; optionale Cookies (Analytics, Marketing) mit Einwilligung. Stripe für Zahlungen; Dienste wie Google (Analytics, Gemini) je nach Konfiguration.\n\nSicherheit\n\nTechnische und organisatorische Maßnahmen zum Schutz Ihrer Daten."
+  },
+  "returns": {
+    "title": "Rückgabe- und Erstattungsrichtlinie",
+    "seoTitle": "Rückgaben | Dyson Generalüberholt",
+    "seoDescription": "Bedingungen und Ablauf für Rückgaben.",
+    "content": "Rückgabefrist\n\n14 Tage ab Erhalt, um Ihre Rückgabe anzuzeigen. Das Produkt muss innerhalb angemessener Frist zurückgesendet werden.\n\nBedingungen\n\nProdukt im Originalzustand, unbenutzt (oder zumutbare Prüfung), Originalverpackung wenn möglich. Zubehör und Unterlagen beilegen.\n\nErstattung\n\nInnerhalb von 14 Tagen nach Eingang und Prüfung der Rücksendung, mit derselben Zahlungsmethode. Rücksendekosten können zu Ihren Lasten gehen, sofern nicht anders vereinbart.\n\nNicht rückgabefähige Produkte\n\nBestimmte gesetzliche Ausnahmen können gelten (siehe Produktseite).\n\nAblauf\n\n1. Support kontaktieren (E-Mail oder Kontaktformular).\n2. Wir teilen die Rücksendeadresse und Anweisungen mit.\n3. Verpacken und mit Versandnachweis zurücksenden.\n4. Prüfung, dann Erstattung.\n\nRücksendeadresse\n\nWird nach Ihrer Anfrage und auf der Kontaktseite mitgeteilt."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "seoTitle": "Nutzungsbedingungen | Dyson Generalüberholt",
+    "seoDescription": "Nutzungsbedingungen der Website und Dienste.",
+    "content": "Zugang\n\nDer Zugang zu und die Nutzung der Website unterliegen diesen Bedingungen. Mit dem Zugriff akzeptieren Sie diese.\n\nBenutzerkonto\n\nDie Erstellung eines Kontos ist optional (Gastkauf möglich). Bei Erstellung eines Kontos sind Sie für die Vertraulichkeit Ihrer Zugangsdaten und alle Aktivitäten verantwortlich.\n\nInhaltseigentum\n\nDer Inhalt der Website (Texte, Bilder, Logos) ist urheberrechtlich geschützt. Die Marke Dyson und die Produkte sind Marken ihrer jeweiligen Inhaber.\n\nVerbotene Nutzung\n\nRechtswidrige Nutzung, Beeinträchtigung der Sicherheit, Identitätsmissbrauch oder Schädigung des Dienstes sind verboten.\n\nHaftungsbeschränkung\n\nWir bemühen uns um Aktualität und Sicherheit der Website. Wir garantieren keine unterbrechungsfreie Verfügbarkeit. Unsere Haftung ist auf vorhersehbare direkte Schäden beschränkt, soweit gesetzlich zulässig."
+  },
+  "cookies": {
+    "title": "Cookie-Richtlinie",
+    "seoTitle": "Cookies | Dyson Generalüberholt",
+    "seoDescription": "Informationen zu Cookies und zur Verwaltung Ihrer Einstellungen.",
+    "content": "Diese Website verwendet Cookies für den Betrieb, die Reichweitenanalyse und mit Ihrer Einwilligung für Marketing.\n\nNotwendige Cookies\n\nSie sind für den Betrieb (Session, Warenkorb, Sprache, Sicherheit) unerlässlich.\n\nAnalytics-Cookies\n\nSie ermöglichen die Messung von Reichweite und Nutzung. Sie sind optional und nur mit Ihrer Einwilligung.\n\nMarketing-Cookies\n\nSie können für relevante Werbung oder Retargeting genutzt werden. Sie sind optional.\n\nVerwaltung Ihrer Wahl\n\nSie können Ihre Einstellungen jederzeit über den Cookie-Hinweis oder diese Seite ändern. Die Einwilligung wird 12 Monate gespeichert.",
+    "bannerTitle": "Cookies und Datenschutz",
+    "bannerDescription": "Wir verwenden notwendige Cookies und mit Ihrer Einwilligung Analytics- und Marketing-Cookies. Sie können alle akzeptieren, nur notwendige oder anpassen.",
+    "acceptAll": "Alle akzeptieren",
+    "necessaryOnly": "Nur notwendige",
+    "customize": "Anpassen",
+    "save": "Meine Wahl speichern",
+    "necessary": "Notwendig",
+    "analytics": "Analytics",
+    "marketing": "Marketing"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "seoTitle": "Kontakt | Dyson Generalüberholt",
+    "seoDescription": "Kontaktieren Sie uns bei Fragen zu Produkten und Bestellungen.",
+    "description": "Eine Frage? Senden Sie uns eine Nachricht, wir antworten innerhalb von 48 Stunden.",
+    "firstName": "Vorname",
+    "lastName": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Senden",
+    "sending": "Wird gesendet…",
+    "success": "Nachricht gesendet. Wir melden uns in Kürze.",
+    "error": "Ein Fehler ist aufgetreten. Bitte erneut versuchen oder per E-Mail kontaktieren."
+  }
+}
